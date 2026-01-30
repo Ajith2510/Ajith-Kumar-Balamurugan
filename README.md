@@ -17,9 +17,16 @@
 ---
 
 ### 🛠 Languages and Tools:
-<p>
-  <img src="https://skillicons.dev/icons?i=powerbi,python,sql,excel,fabric,azure,r" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,azure,r,mysql" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+</p>
+
 
 ---
 
