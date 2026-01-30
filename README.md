@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Ajith</h1>
-<h3 align="center">Aspiring Data Analyst | Data Science Graduate</h3>
+<h3 align="center">Data Analyst</h3>
 
 ---
 
@@ -18,11 +18,8 @@
 
 ### 🛠 Languages and Tools:
 <p>
-<img src="https://skillicons.dev/icons?i=python,mysql,azure,git,powerbi" />
+<img src="https://skillicons.dev/icons?i=powerbi,python,sql,excel,fabric,azure,r" />
 </p>
 
 ---
-
-### 📈 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=Ajith2510&show_icons=true" />
 
