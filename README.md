@@ -12,8 +12,9 @@
 ---
 
 ### 🔗 Connect with me:
-<a href="https://www.linkedin.com/in/ajith-balamurugan/" target="_blank"</a>
+<a href="https://www.linkedin.com/in/ajith-balamurugan/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="20"/>
+</a>
 
 ---
 
