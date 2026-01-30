@@ -18,7 +18,7 @@
 
 ### 🛠 Languages and Tools:
 <p>
-<img src="https://skillicons.dev/icons?i=powerbi,python,sql,excel,fabric,azure,r" />
+  <img src="https://skillicons.dev/icons?i=powerbi,python,sql,excel,fabric,azure,r" />
 </p>
 
 ---
