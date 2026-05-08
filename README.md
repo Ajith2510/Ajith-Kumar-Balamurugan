@@ -1,12 +1,12 @@
 <h1 align="center">Hi there 👋, I'm Ajith</h1>
-<h3 align="center">Data Analyst</h3>
+<h3 align="center">Data Engineer</h3>
 
 ---
 
-🌱 Currently working with: Python, SQL, Power BI, Excel  
+🌱 Currently working with: Python, SQL, Pyspark, Azure, AWS
 🎓 Master’s in Data Science – University of South Australia  
 💼 Former System Engineer at TCS (Cloud Services)  
-📊 Interested in Data Analytics, BI & Machine Learning  
+📊 Interested in Data Engineering, BI & Machine Learning  
 📫 Reach me: ajithkumar2510.b@gmail.com  
 
 ---
